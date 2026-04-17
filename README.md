@@ -1,16 +1,14 @@
-## Hi there 👋
+## Fabio Borges, MSDS
+*[he/him/his]*
 
-<!--
-**fabio-borges/fabio-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings!
 
-Here are some ideas to get you started:
+My name is Fabio and I've recently finished my [Master's degree in Data Science by the University of Texas at Austin](https://cdso.utexas.edu/msds). I also have 25 years of experience as a Software Developer. At this point in my career, I'd like to switch to either Data Science (my preference) or to a "data-focused" Software Development role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now, I only have one project in my portifolio: 
+
+#### Home Credit Default Risk (past Kaggle competition)
+
+The repository for this mini-project is [home_credit_risk_pub](https://github.com/fabio-borges/home_credit_risk_pub), where you can find all the details. The goal is to predict the risk of default for credit applications. The dataset is from this Kaggle's competition: [Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/overview).
+
+
