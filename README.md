@@ -3,9 +3,7 @@
 
 Greetings!
 
-My name is Fabio and I've recently finished my [Master's degree in Data Science by the University of Texas at Austin](https://cdso.utexas.edu/msds). I also have 25 years of experience as a Software Developer. At this point in my career, I'd like to switch to either Data Science (my preference) or to a "data-focused" Software Development role.
-
-For now, I only have one project in my portifolio: 
+I'm a Senior Java Backend Engineer with 25 years of experience building complex, reliability‑critical systems. I also have a Master’s degree in Data Science by the University of Texas at Austin.
 
 #### Home Credit Default Risk (past Kaggle competition)
 
